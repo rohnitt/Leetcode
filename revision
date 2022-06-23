@@ -52,7 +52,7 @@ __________________________________________Partially done strictly revise it ____
 |________________________________________________________________________________________________________________________________________________________
 
 |
---------------------------------------------------___Interesting Questions must revise____-------------------------------------------------------------------
+--------------------------------------------------___Interesting Questions must revise____ BIT Manipulation_____-------------------------------------------------------------------
 |73. Set Matrix Zeroes-> https://leetcode.com/submissions/detail/726640343/  Brute Force https://leetcode.com/submissions/detail/726649043/
 |118. Pascal's Triangle-> https://leetcode.com/submissions/detail/726664641/
 |231. Power of Two-> https://leetcode.com/submissions/detail/726816825/
@@ -65,7 +65,7 @@ __________________________________________Partially done strictly revise it ____
 |237. Delete Node in a Linked List-> https://leetcode.com/submissions/detail/728546382/ without head pointer use copy method
 |630. Course Schedule III-> https://leetcode.com/submissions/detail/729213130/  sort(courses.begin(), courses.end(), [](const vector<int>& a, vector<int>& b) { return a[1] < b[1];});
 |338. Counting Bits-> https://leetcode.com/submissions/detail/729245275/
-|
+|1356. Sort Integers by The Number of 1 Bits-> https://leetcode.com/submissions/detail/729330252/
 |
 |
 |
