@@ -1,4 +1,5 @@
 In recursion function if the variable is declared as static/Global it will have only one copy and will be same for all calling function
+50. Pow(x, n)-> https://leetcode.com/submissions/detail/740223182/
 775. Global and Local Inversions-> https://leetcode.com/submissions/detail/739204630/
 128. Longest Consecutive Sequence-> https://leetcode.com/submissions/detail/739068079/
 376. Wiggle Subsequence-> https://leetcode.com/submissions/detail/737400599/
