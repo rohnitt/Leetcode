@@ -1,3 +1,4 @@
+1473. Paint House III-> https://leetcode.com/submissions/detail/741825106/ ------Hard Question didn't complete it by own
 https://www.geeksforgeeks.org/minimize-cost-of-painting-n-houses-such-that-adjacent-houses-have-different-colors/ ------PAINT HOUSE 1
 http://buttercola.blogspot.com/2015/09/leetcode-paint-house-ii.html ------PAINT HOUSE 2
 In recursion function if the variable is declared as static/Global it will have only one copy and will be same for all calling function
